@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevopsReidar", "DevopsReidar.csproj", "{874532EE-5DC8-4655-838F-2E0519B0A872}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevopsReidar", "DevopsReidar.csproj", "{874532EE-5DC8-4655-838F-2E0519B0A872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevopsReidarTest", "..\DevopsReidarTest\DevopsReidarTest.csproj", "{4DCD764B-5D07-4A37-886D-9F5412790B44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{874532EE-5DC8-4655-838F-2E0519B0A872}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{874532EE-5DC8-4655-838F-2E0519B0A872}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{874532EE-5DC8-4655-838F-2E0519B0A872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCD764B-5D07-4A37-886D-9F5412790B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCD764B-5D07-4A37-886D-9F5412790B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCD764B-5D07-4A37-886D-9F5412790B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCD764B-5D07-4A37-886D-9F5412790B44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
